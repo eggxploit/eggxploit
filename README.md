@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Cybersecurity Projects:
 
-- **[Active Directory Home Lab](https://github.com/eggxploit/ActiveDirectoryLab)**
+- **[Active Directory Home Lab](https://github.com/eggxploit/Active-Directory-Home-Lab)**
 
 ## Certifications
 
