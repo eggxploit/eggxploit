@@ -11,7 +11,6 @@
 ## Certifications
 
 - **[CompTIA Security+](https://www.credly.com/badges/29276627-8ec4-42f0-9db7-4e4e3fc99389/public_url)**
-- **[CISSP (In Progress)]**
 - **[Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/b08cb511-2daa-445b-b08e-a63711677a5a/public_url)**
 - **[Google Technical Support Fundamentals](https://coursera.org/share/3b0bd3d8b8c7cf67f4ac1b46f72f0c7a)**
 - **[FEMA National Incident Management System (NIMS): ICS-100](https://github.com/eggxploit/eggxploit/blob/main/IS-100.C_certificate%20(2).pdf)**
