@@ -4,6 +4,9 @@
 ## 👨‍💻 Cybersecurity Projects:
 
 - **[Active Directory Home Lab](https://github.com/eggxploit/Active-Directory-Home-Lab)**
+- **[ELK-Stack-Project](https://github.com/eggxploit/ELK-Stack-Project)**
+- **[Assessment-Analysis-and-Hardening-of-a-Vulnerable-System](https://github.com/eggxploit/Assessment-Analysis-and-Hardening-of-a-Vulnerable-System)**
+- **[Attack-Defense-and-Analysis-of-a-Vulnerable-Network](https://github.com/eggxploit/Attack-Defense-and-Analysis-of-a-Vulnerable-Network)**
 
 ## Certifications
 
